@@ -6,15 +6,15 @@ Instance: AWS EC2
   - With Internet Access
   - Security Group with Port `8080` open for internet
 
-### Setup Jenkins server(done!)
+#### Setup Jenkins server (done!)
 
-### Setup Tomcat server(done!)
+#### Setup Tomcat server (done!)
 
-### Setup Docker host(done!)
+#### Setup Docker host (done!)
 
-### Setup Ansible server(done!)
+#### Setup Ansible server (done!)
 
-### Setup Kubernetes on AWS
+#### Setup Kubernetes on AWS (done!)
 
 ### Integrating Kubernetes in CI/CD pipeline
 
